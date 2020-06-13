@@ -1,0 +1,7 @@
+The only manual process is to update the CDN url in github repo
+
+
+After CDN creation update the url od CDN in github img src of index.html
+
+
+githubrepo: https://github.com/meabhishek06/cloudtera1.git
